@@ -10,7 +10,7 @@
 └── images
 
 - 1.Home.html
-  ![alt text](img.1.png)📷
+  📷 ![alt text](img.1.png)
 - 2.About.html
   📷 ![alt text](img.2.png)
 - 3.Contact.html
